@@ -1,3 +1,6 @@
+Research Paper Summarization Practicum Project    
+Reading and understanding long and complex research papers can be hectic and time consuming for common people. Beginners often have hard time locating academic papers which align with their interest of work. Hard to read mathematical equations, tough formulas and complex wordings makes it tough to understand the underlying context of the academic paper. The main purpose of our project is to create a simple and easy to understand summary of academic research papers published around the world. The model will simplify the complex wordings, technical terms and equations of research papers and give a concise and contextually accurate summary.
+
 Group Members -     
 Aaryan Sharma (06717711622)      
 Akshat Singh (05717711622)     
